@@ -1,3 +1,5 @@
+### WARN: if you see there is 4 commits, do not issue an pull request. Because this api and everything else were made before the github repo! We make stuff before we release repo
+
 # Python API Package
 
 This is a simple Python API package that allows you to make HTTP requests without using any external libraries.
