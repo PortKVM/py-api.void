@@ -1,4 +1,3 @@
-```
 # Python API Package
 
 This is a simple Python API package that allows you to make HTTP requests without using any external libraries.
